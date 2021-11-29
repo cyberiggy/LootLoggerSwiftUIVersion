@@ -12,7 +12,7 @@ import SwiftUI
 struct LootLoggerSwiftVersionApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ItemsView()
         }
     }
 }
